@@ -1,7 +1,3 @@
 Hello Worldbbb
 abcde
-<<<<<<< HEAD
-5566
-=======
 1234
->>>>>>> 7e35e8628c22ab34888e9a2250dcd3eeb44e82b4
